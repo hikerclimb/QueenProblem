@@ -4,3 +4,9 @@ C:\Users\Aniket\Documents\70-483 Certification Book\Chapter 8\QueenProblem\bin\D
 C:\Users\Aniket\Documents\70-483 Certification Book\Chapter 8\QueenProblem\bin\Debug\QueenProblem.pdb
 C:\Users\Aniket\Documents\70-483 Certification Book\Chapter 8\QueenProblem\obj\Debug\QueenProblem.exe
 C:\Users\Aniket\Documents\70-483 Certification Book\Chapter 8\QueenProblem\obj\Debug\QueenProblem.pdb
+C:\Users\Aniket\Documents\GitHub\QueenProblem\QueenProblem\bin\Debug\QueenProblem.exe.config
+C:\Users\Aniket\Documents\GitHub\QueenProblem\QueenProblem\bin\Debug\QueenProblem.exe
+C:\Users\Aniket\Documents\GitHub\QueenProblem\QueenProblem\bin\Debug\QueenProblem.pdb
+C:\Users\Aniket\Documents\GitHub\QueenProblem\QueenProblem\obj\Debug\QueenProblem.csprojAssemblyReference.cache
+C:\Users\Aniket\Documents\GitHub\QueenProblem\QueenProblem\obj\Debug\QueenProblem.exe
+C:\Users\Aniket\Documents\GitHub\QueenProblem\QueenProblem\obj\Debug\QueenProblem.pdb
